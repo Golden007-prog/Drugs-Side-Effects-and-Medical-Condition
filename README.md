@@ -12,6 +12,15 @@
 
 Drugs, Side Effects and Medical Condition is a comprehensive data science platform that analyzes drug safety, efficacy, and patient experiences using real-world data from Drugs.com. This project was developed during my **Data Science Internship at Unified Mentor**, implementing a complete end-to-end machine learning workflow, from data collection to interactive dashboards, providing actionable insights for healthcare decision-making.
 
+![image](https://github.com/user-attachments/assets/808c8d81-1ffc-42f1-aad7-d51902b51e82)
+![image](https://github.com/user-attachments/assets/411ffbb5-8368-4f56-a805-4cf19ae4fe40)
+![image](https://github.com/user-attachments/assets/3476663d-432c-4d8e-b779-8e9f9a4df01e)
+![image](https://github.com/user-attachments/assets/7b6ebe11-7488-4fac-981f-1c184fadf57d)
+![image](https://github.com/user-attachments/assets/fb5c53a5-3e5e-49a3-9dbf-03821550d826)
+![image](https://github.com/user-attachments/assets/8139ad0f-6161-48d1-b0e0-9c41733254c5)
+
+
+
 ### ✨ Key Highlights
 - 📊 **11MB+ Drug Dataset** - Comprehensive analysis of thousands of drug-condition pairs
 - 🤖 **6 ML Models** - Classification, regression, and clustering models for drug analysis
