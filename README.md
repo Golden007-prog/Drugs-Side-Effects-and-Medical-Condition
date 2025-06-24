@@ -1,4 +1,6 @@
-# 💊 Drugsmed - Drug Safety & Efficacy Analysis Platform
+![GGS2](https://github.com/user-attachments/assets/32a10826-deee-49b1-945b-8e92370ae6f4)
+
+# 💊 Drugs, Side Effects and Medical Condition arrow_drop_up
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.25.0-red.svg)](https://streamlit.io/)
@@ -8,7 +10,7 @@
 
 ## 🚀 Project Summary
 
-**Drugsmed** is a comprehensive data science platform that analyzes drug safety, efficacy, and patient experiences using real-world data from Drugs.com. This project was developed during my **Data Science Internship at Unified Mentor**, implementing a complete end-to-end machine learning workflow, from data collection to interactive dashboards, providing actionable insights for healthcare decision-making.
+Drugs, Side Effects and Medical Condition is a comprehensive data science platform that analyzes drug safety, efficacy, and patient experiences using real-world data from Drugs.com. This project was developed during my **Data Science Internship at Unified Mentor**, implementing a complete end-to-end machine learning workflow, from data collection to interactive dashboards, providing actionable insights for healthcare decision-making.
 
 ### ✨ Key Highlights
 - 📊 **11MB+ Drug Dataset** - Comprehensive analysis of thousands of drug-condition pairs
@@ -238,16 +240,6 @@ This project is for **educational and research purposes**. Please respect data s
 - **Libraries**: All the amazing open-source libraries that made this project possible
 - **Community**: Python data science community for tools and inspiration
 - **Mentors**: For their continuous support and feedback during the internship program
-
-## 📞 Contact & Support
-
-If you find this project useful, please ⭐ star the repository!
-
-For questions, suggestions, or collaboration opportunities, feel free to:
-- 📧 Open an issue
-- 💬 Start a discussion
-- 🐛 Report bugs
-
 ---
 **Built with ❤️ during my Data Science Internship at Unified Mentor**  
 *Dedicated to the healthcare and data science community* 
